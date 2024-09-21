@@ -1,3 +1,2 @@
 # FirstRep
-#First Edit
-print(hey)
+# First Edit
